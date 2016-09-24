@@ -1,0 +1,1 @@
+[You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) is an awesome article written by Dan Abramov. If you haven't read it, you should now. This is for discoverability.
