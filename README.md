@@ -7,4 +7,5 @@
 - [You Don't Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI) - Stop relying on GUI; CLI **ROCKS**.
 - [You Might Not Need Redux](https://medium.com/@dan_abramov/you-might-not-need-redux-be46360cf367) - If you're just learning React, don't make Redux your first choice.
 - [You Might Not Need TypeScript (or Static Types)](https://medium.com/javascript-scene/you-might-not-need-typescript-or-static-types-aa7cb670a77b#.8oxodypn7) - There’s no question that static types can feel good. Biting into a hot glazed donut feels good. But is it really good for you?
-- [You Might Not Need React Router](https://medium.freecodecamp.com/you-might-not-need-react-router-38673620f3d)- The majority of projects at Facebook don’t even use it.
+- [You Might Not Need React Router](https://medium.freecodecamp.com/you-might-not-need-react-router-38673620f3d) - The majority of projects at Facebook don’t even use it.
+- [You Might Not Need to Transpile Your JavaScript](https://medium.freecodecamp.com/you-might-not-need-to-transpile-your-javascript-4d5e0a438ca) - In other words if you’re transpiling your JavaScript to ES5, you’re making your code unnecessarily big and slow to support a minority of the users who will probably upgrade their system by the time you manage to configure your Webpack and Babel! 😉
