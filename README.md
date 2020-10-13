@@ -1,10 +1,11 @@
 <div align="center">
 
 # You Don't Need
+[![Logo](logo.jpg)](https://github.com/you-dont-need)
+People choose popular projects, often not because it applies to their problems.  
 
-[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> People choose popular projects, often not because it applies to their problems.
 
 </div>
 
