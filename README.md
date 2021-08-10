@@ -30,6 +30,7 @@ People choose popular projects, often not because it applies to their problems.
 - [You Might Not Need React Router](https://www.freecodecamp.org/news/you-might-not-need-react-router-38673620f3d) - The majority of projects at Facebook don't even use it.
 - [You Might Not Need jQuery](http://youmightnotneedjquery.com/) - If you're only targeting more modern browsers, you might not need anything more than what the browser ships with.
 - [You Might Not Need Axios](https://danlevy.net/you-may-not-need-axios/) - The standard `window.fetch` has all the features you need.
+- [You Might Not Need Gatsby](https://johnny.sh/blog/you-might-not-need-gatsby/) - A simpler static React stack
 
 ## Languages
 
